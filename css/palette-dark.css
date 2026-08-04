@@ -1,0 +1,11 @@
+/* GiftsBattle — тёмная тема */
+:root {
+  --lb-bg: #090B11;
+  --lb-text: #FFFFFF;
+  --lb-accent: #236CD9;
+  --lb-grad: #1D4ED8;
+  --lb-soft: #5A7EA8;
+  --lb-muted: #94A3B8;
+  --lb-surface: #11151F;
+  --lb-surface-2: rgba(22, 25, 35, 0.72);
+}
